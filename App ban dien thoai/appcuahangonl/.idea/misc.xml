@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/drawable/background_button.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_chi_tiet.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_dangnhap.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_dien_thoai.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_gio_hang.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_laptop.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_quan_li.xml" value="0.128" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_resetpass.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_search.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_them_spactivity.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/activity_xem_don.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/item_chitiet.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/item_sanpham.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AppManager/appcuahangonl/app/src/main/res/layout/item_sp_moi.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/drawable/background_button.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/drawable/spinner.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_chi_tiet.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_dangky.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_dangnhap.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_dien_thoai.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_gio_hang.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_laptop.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_lichsumuahang.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_resetpass.xml" value="0.1966019417475728" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_thanhtoan.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_thanhtoan2.xml" value="0.176" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/activity_xem_don.xml" value="0.12082066869300911" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/item_chitiet.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/item_dienthoai.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/item_donhang.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/item_giohang.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/item_loading.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/item_sanpham.xml" value="0.176" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/appcuahangonl/app/src/main/res/layout/item_sp_moi.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
